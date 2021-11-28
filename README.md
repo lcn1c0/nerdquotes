@@ -3096,6 +3096,8 @@ But I'm not gonna lie down until I get there.
 *Homer Simpson*
 
 -------
+> Bienvenido a Jurariscc Park
+*Jhon Hammon*
 
 > Those are my commits, and if you don't like them... well, I have others
 
@@ -3126,6 +3128,7 @@ But I'm not gonna lie down until I get there.
 *Peter Griffin*
 
 -------
+
 
 > I'm a history nerd. Actually acting's the best job for somebody who loves weird, different stuff.
 
